@@ -10,21 +10,21 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Triangle Affordable Housing Datajam"
-email: "chris.mathews@wakegov.com"
-description: "Sponsored by NC Data4Good and NC OpenPass"
-baseurl: "/affordable-housing-datajam"
-url: "https://christhedba.github.io"
+title: "NC Open Pass"
+email: "info@ncopenpass.com"
+description: "Your passport to Open Data and Civic Tech in North Carolina"
+baseurl: "/main-website"
+url: "https://ncopenpass.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
 googleAnalyticsSiteUrl: 
 siteVerification: 
 
 # Organizer Info
-organizerName: "NC Openpass and NC Data4Good"
+organizerName: "NC Openpass"
 organizerAlternateName: ""
-organizerDescription: "Harnessing the power of data and community to help Triangle agencies to make better decisions around affordable housing."
-organizerEmail: "christhedba@gmail.com"
+organizerDescription: "Harnessing the power of open data and community to help North Carolina."
+organizerEmail: "info@ncopenpass.com"
 organizerLogo: "organizer-logo.png"
 organizerLink: ""
 
@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- #- {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -55,17 +55,17 @@ rightNavigationButtons:
  - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
 
 # Hero Block
-heroImage: "CommWithData.jpg"
-heroTitle: "Triangle Affordable Housing Datajam"
-eventDate: "March 3-4, 2018"
-typeoutTextValues: ''
-typeoutFallback: ""
+heroImage: "Passport.jpg"
+heroTitle: "NC Open Pass <typeout> 2018"
+eventDate: ""
+typeoutTextValues: '"", "Datajam", "Civic Action Day", "CivicCamp", "Datapalooza"'
+typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
  - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
-aboutTitle: "About Triangle Affordable Housing Datajam"
+aboutTitle: "NC Open Pass"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Learn about the latest devlopments in Triangle Open Data" }
  - {title: "Workshop", image: "workshop.jpg", text: "Learn how journalists use data to build stories and get your hands on some yourself" }
@@ -90,19 +90,19 @@ rockstarSpeakersButtonText: ""
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "NC State EB2 Building"
+eventLocationName: ""
 eventLocationLink: ""
-eventStreetAddress: "890 Oval Dr"
-eventAddressLocality: ", Raleigh"
-eventAddressLocalityRegion: "NC"
-eventPostalCode: "27606"
+eventStreetAddress: ""
+eventAddressLocality: ""
+eventAddressLocalityRegion: ""
+eventPostalCode: ""
 eventAddressCountry: ""
-eventStartTime: "2018-03-03T109:00"
-eventDoorTime: "08:00"
-eventEndTime: "2018-03-04T17:00"
-eventPlaceCoordinates: "35.7719, -78.6740"
-mapCenterCoordinates: "35.7719, -78.6740"
-mapMobileCenterCoordinates: "35.7719, -78.6740"
+eventStartTime: ""
+eventDoorTime: ""
+eventEndTime: ""
+eventPlaceCoordinates: ""
+mapCenterCoordinates: ""
+mapMobileCenterCoordinates: ""
 
 # Venue Block
 venueBlockTitle: "Venue"
