@@ -61,18 +61,19 @@ eventDate: ""
 typeoutTextValues: '"", "Datajam", "Civic Action Day", "CivicCamp", "Datapalooza"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/2D7bhLc", text: "Become a partner"}
+ - {link: "mailto:info@ncopenpass.com", text: "Become a partner"}
  - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
-aboutTitle: "NC Open Pass"
+aboutTitle: "NC Open Pass Events"
 aboutBlock:
  - {title: "Datajam", image: "conference.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://ncopenpass.github.i/datajam" }
  - {title: "Civic Action Day", image: "workshop.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.i/civic-action-day" }
  - {title: "NDoCH", image: "hackathon.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://ncopenpass.github.i/main-website" }
  - {title: "CivicCamp", image: "conference.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.i/civiccamp" }
- - {title: "DataPalooza", image: "workshop.jpg", text: " An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.i/datapalooza" }
- 
+ - {title: "DataPalooza", image: "workshop.jpg", text: "An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.i/datapalooza" }
+ - {title: "Regional Events", image: "workshop.jpg", text: "Events organized by other groups that your Open Pass gives you access", link: "https://ncopenpass.github.i/main-website" }
+  
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
