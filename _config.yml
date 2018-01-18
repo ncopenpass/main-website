@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "NC Open Pass Events"
 aboutBlock:
  - {title: "Datajam", image: "conference.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://ncopenpass.github.io/datajam-website" }
- - {title: "Civic Action Day", image: "workshop.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.i0/civicactionday-website" }
+ - {title: "Civic Action Day", image: "workshop.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.io/civicactionday-website" }
  - {title: "NDoCH", image: "hackathon.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://ncopenpass.github.io/main-website" }
  - {title: "CivicCamp", image: "conference.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.io/civiccamp-website" }
  - {title: "DataPalooza", image: "workshop.jpg", text: "An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.io/datapalooza-website" }
@@ -78,10 +78,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "analysts", detail: "from around the Triangle"}
- - {count: "16", specialCharacter: "+", info: "hours", detail: "of open data goodness"}
- - {count: "10", specialCharacter: "+", info: "partner agencies", detail: "solving Affordable Housing"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus breakfast and lunch"}
+ - {count: "300", specialCharacter: "+", info: "participants", detail: "from around North Carolina"}
+ - {count: "80", specialCharacter: "+", info: "hours", detail: "of awesome programming"}
+ - {count: "5", specialCharacter: "", info: "events", detail: "spread through the year"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
