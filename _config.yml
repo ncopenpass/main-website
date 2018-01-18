@@ -67,9 +67,12 @@ heroButtons:
 # About Block
 aboutTitle: "NC Open Pass"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Learn about the latest devlopments in Triangle Open Data", link: "https://www.google.com" }
- - {title: "Workshop", image: "workshop.jpg", text: "Learn how journalists use data to build stories and get your hands on some yourself", link: "https://www.google.com" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Bring your analysis skills and passion for public service to help agencies engaged in affordable housing.", link: "https://www.google.com" }
+ - {title: "Datajam", image: "conference.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://www.google.com" }
+ - {title: "Civic Action Day", image: "workshop.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://www.google.com" }
+ - {title: "NDoCH", image: "hackathon.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://www.google.com" }
+ - {title: "CivicCamp", image: "conference.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://www.google.com" }
+ - {title: "DataPalooza", image: "workshop.jpg", text: " An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://www.google.com" }
+ 
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
