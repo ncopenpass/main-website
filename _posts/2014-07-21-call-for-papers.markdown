@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Partners"
+title:  "NC Open Pass Rebranding"
 date:   2018-03-03 09:00:00
 isStaticPost: false
 ---
