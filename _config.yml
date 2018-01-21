@@ -198,6 +198,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
+blogImage: blog.jpg
 blogCommentsEnabled: false
 discusShortName: "devfestua"
 
