@@ -137,43 +137,43 @@ subscribeInfo: "Registration will be open around end of January. Number of ticke
 ticketsTitle: "Tickets"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
- -
-  name: "Hackathon"
-  price: "0"
-  priceCurrency: "US Dollar"
-  ticketsNumber: "00"
-  ribbon: ""
-  buyButtonLink: ""
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-01-28T09:00"
-  validThrough: "2018-03-04T09:00"
- -
-  name: "Full Conference"
-  price: ""
-  priceCurrency: ""
-  ticketsNumber: "100"
-  ribbon: ""
-  featured: true
-  buyButtonLink: ""
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-01-28T09:00"
-  validThrough: "2018-03-04T09:00"
-  disabled: false
- -
-  name: "Full Conference"
-  price: ""
-  priceCurrency: ""
-  ticketsNumber: "100"
-  ribbon: ""
-  featured: true
-  buyButtonLink: ""
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-01-28T09:00"
-  validThrough: "2018-03-04T09:00"
-  disabled: false
+ # -
+ #  name: "Hackathon"
+ #  price: "0"
+ #  priceCurrency: "US Dollar"
+ #  ticketsNumber: "00"
+ #  ribbon: ""
+ #  buyButtonLink: ""
+ #  buyButtonText: "Buy Now"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2018-01-28T09:00"
+ #  validThrough: "2018-03-04T09:00"
+ # -
+ #  name: "Full Conference"
+ #  price: ""
+ #  priceCurrency: ""
+ #  ticketsNumber: "100"
+ #  ribbon: ""
+ #  featured: true
+ #  buyButtonLink: ""
+ #  buyButtonText: "Buy Now"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2018-01-28T09:00"
+ #  validThrough: "2018-03-04T09:00"
+ #  disabled: false
+ # -
+ #  name: "Full Conference"
+ #  price: ""
+ #  priceCurrency: ""
+ #  ticketsNumber: "100"
+ #  ribbon: ""
+ #  featured: true
+ #  buyButtonLink: ""
+ #  buyButtonText: "Buy Now"
+ #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+ #  validFrom: "2018-01-28T09:00"
+ #  validThrough: "2018-03-04T09:00"
+ #  disabled: false
   
 # Footer
 socialLinks:
