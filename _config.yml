@@ -145,7 +145,7 @@ ticketsOffers:
    ribbon: ""
    buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701?ref=estw"
    buyButtonText: "Buy Now"
-   ticketContentList: ["Save Money", "Godd All Year", "One and Done"]
+   ticketContentList: ["Save Money", "Good All Year", "One and Done"]
    validFrom: "2018-01-28T09:00"
    validThrough: "2018-03-31T23.59"
  # -
@@ -160,7 +160,7 @@ ticketsOffers:
  #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
  #  validFrom: "2018-01-28T09:00"
  #  validThrough: "2018-03-04T09:00"
- #  disabled: false
+ #  disabled: falvase
  # -
  #  name: "Full Conference"
  #  price: ""
