@@ -16,6 +16,6 @@ NC Open Pass Rebranding Efforts Underway
 
 #### Themes and topics – what do we expect?
 
-Plan and execute Open Data and cCivic Tech events in the triangle and North Carolina
+Plan and execute Open Data and Civic Tech events in the triangle and North Carolina
 
 Email organizers at [info@ncopenpass.com](mailto:info@ncopenpass.com)
