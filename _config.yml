@@ -135,12 +135,12 @@ subscribeInfo: "Registration will be open around end of January. Number of ticke
 
 # Tickets Block
 ticketsTitle: "Tickets"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
   -
    name: "Early Bird"
-   price: "45"
-   priceCurrency: "US Dollar"
+   price: "$45"
+   priceCurrency: "Dollars"
    ticketsNumber: "00"
    ribbon: ""
    buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701?ref=estw"
