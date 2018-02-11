@@ -138,7 +138,7 @@ ticketsTitle: "Tickets"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
   -
-   name: "Early Bird"
+   name: "Early Bird Available"
    price: "45"
    priceCurrency: "Dollars"
    ticketsNumber: "00"
