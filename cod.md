@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Code of Conduct policy
 permalink: /cod/
 isStaticPost: true
 ---
 
 Forked from Code for America’s Code of Conduct
-The Code for America community expects that Code for America network activities, events, and digital forums including events hosted by Open Raleigh Brigade, such as CityCamp NC:
+
+The Code for America community expects that Code for America network activities, events, and digital forums including events hosted by Open Raleigh Brigade, such as NC Open Pass:
 
 Are a safe and respectful environment for all participants.
 Are a place where people are free to fully express their identities.
