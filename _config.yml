@@ -70,7 +70,7 @@ aboutBlock:
  - {title: "Datajam", image: "datajam.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://ncopenpass.com/datajam18-website" }
  - {title: "Civic Action Day", image: "civicactionday.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.io/civicactionday-website" }
  - {title: "NDoCH", image: "ndoch.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://ncopenpass.github.io" }
- - {title: "CivicCamp", image: "civictech-2.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.io/civiccamp-website" }
+ - {title: "Civic Camp", image: "civictech-2.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.io/civiccamp-website" }
  - {title: "DataPalooza", image: "techtank.jpg", text: "An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.io/datapalooza-website" }
  - {title: "Regional Events", image: "ndoch-2.jpg", text: "Events organized by other groups that your Open Pass gives you access", link: "https://ncopenpass.com" }
   
