@@ -139,7 +139,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lu
 ticketsOffers:
   -
    name: "Early Bird"
-   price: "$45"
+   price: "45"
    priceCurrency: "Dollars"
    ticketsNumber: "00"
    ribbon: ""
