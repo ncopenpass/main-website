@@ -119,8 +119,8 @@ venueFeatures: ["2 huge auditoriums", "breakout rooms", "Located on centenial Ca
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ncdatajam"
-twitterFeed: ""
+twitterHashTag: "ncopenpass"
+twitterFeed: "@ncopenpass"
 
 # Partners Block
 organizersTitle: "Organizers"
