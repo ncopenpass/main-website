@@ -12,8 +12,7 @@
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
     - {name: "site", link: ""}
-    - {name: "e-mail", link: "christhedba@gmail.com"}
- - 
+  - 
   id: 1
   name: "Jason"
   surname: "Hibbets"
