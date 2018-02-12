@@ -139,13 +139,13 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lu
 ticketsOffers:
  -
   name: "Hackathon"
-  price: "0"
+  price: "45"
   priceCurrency: "US Dollar"
   ticketsNumber: "00"
   ribbon: ""
   buyButtonLink: ""
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Save Money", "Good All Year", "One and Done"]
   validFrom: "2018-01-28T09:00"
   validThrough: "2018-03-04T09:00"
  # -
