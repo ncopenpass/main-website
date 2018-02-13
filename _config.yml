@@ -14,7 +14,7 @@ title: "NC Open Pass"
 email: "info@ncopenpass.com"
 description: "Your passport to Open Data and Civic Tech in North Carolina"
 baseurl: "/"
-url: "https://ncopenpass.github.io"
+url: "https://ncopenpass.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
 googleAnalyticsSiteUrl: 
