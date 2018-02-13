@@ -9,12 +9,12 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_site/']
 
 
-# Site Settings
+# Site Settingsgithub.io
 title: "NC Open Pass"
-email: "info@ncopenpass.com"
+email: "info@ncopenpass."
 description: "Your passport to Open Data and Civic Tech in North Carolina"
 baseurl: "/"
-url: "https://ncopenpass.com"
+url: "https://ncopenpass.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: 
 googleAnalyticsSiteUrl: 
