@@ -1,9 +1,18 @@
+# This is the homepage for NC Open Pass - A Jekyll based site = like most of what we do, we borrow it in the spririt of Open Source
+
+The site is divided into this several child sites. One for each event.
+
+### https://ncopenpass.github.io/datajam = our Open Data Day event
+### https://ncopenpass.github.io/datajam = Our NDoCH event
+### https://ncopenpass.github.io/civiccamp = Our traditional unconference
+### https://ncopenpass.github.io/datapalooza = our Open Data competition
+
 # Project Zeppelin / GDG DevFest 2014 site template
 
 ### About
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.
 
-Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
+Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.coroot and severalm/).
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
