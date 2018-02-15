@@ -66,7 +66,7 @@ heroButtons:
 
 # About Block
 aboutTitle: "NC Open Pass Events"
-aboutDesc: "NC Open Pass fosters the use of open data and civic tech to create innovative products and services. \n\r NC Open Pass brings together citizens, government, academia, businesses and entrepreneurs in a series of events throughout the year. \n The events provide the opportunity to develop civic projects and the opportunity to compete for cash prizes..."
+aboutDesc: "NC Open Pass fosters the use of open data and civic tech to create innovative products and services. \r\n NC Open Pass brings together citizens, government, academia, businesses and entrepreneurs in a series of events throughout the year. \n The events provide the opportunity to develop civic projects and the opportunity to compete for cash prizes..."
 aboutBlock:
  - {title: "Datajam", image: "datajam.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://ncopenpass.github.io/datajam" }
  - {title: "Civic Action Day", image: "civicactionday.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.io/civicactionday" }
