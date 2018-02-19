@@ -42,7 +42,8 @@ c4sponsorsUrl: ""
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Datajam Home"}
+ - {permalink: "http:ncopenpass.github.io/", text: "NC Open Pass Home"}
  - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
