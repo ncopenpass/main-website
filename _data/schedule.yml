@@ -9,17 +9,17 @@
     - {
     	startTime: "8:30",
     	endTime: "9:00",
-    	sessionIds: [001]
+    	sessionIds: [001, 001, 001]
     }
     - {
         startTime: "9:00",
         endTime: "9:15",
-        sessionIds: [002]
+        sessionIds: [002, 002, 002]
     }
     - {
         startTime: "9:15",
         endTime: "9:45",
-        sessionIds: [003]
+        sessionIds: [003, 003, 003]
     }
     - {
         startTime: "9:45",
@@ -36,6 +36,17 @@
     	endTime: "13:00",
     	sessionIds: [503]
     }
+    - {
+        startTime: "13:00",
+        endTime: "13:30",
+        sessionIds: [006, 404, 404]
+    }
+- {
+        startTime: "13:00",
+        endTime: "13:30",
+        sessionIds: [404, 404, 005]
+    }
+
 - 
   date: "2018-03-04"
   dateReadable: "March 4"

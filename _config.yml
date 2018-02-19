@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "Passport.jpg"
 heroTitle: "NC Open Pass <typeout> 2018"
 eventDate: ""
-typeoutTextValues: '"", "Datajam", "Civic Action Day", "CivicCamp", "Datapalooza"'
+typeoutTextValues: '"", "Datajam", "Civic Action Day", "Civic Camp", "Datapalooza"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "mailto:info@ncopenpass.com", text: "Become a partner"}
@@ -68,11 +68,11 @@ heroButtons:
 aboutTitle: "NC Open Pass Events"
 aboutDesc: "NC Open Pass fosters the use of open data and civic tech to create innovative products and services. \r\n NC Open Pass brings together citizens, government, academia, businesses and entrepreneurs in a series of events throughout the year. \n The events provide the opportunity to develop civic projects and the opportunity to compete for cash prizes..."
 aboutBlock:
- - {title: "Datajam", image: "datajam.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://ncopenpass.github.io/datajam" }
- - {title: "Civic Action Day", image: "civicactionday.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.io/civicactionday" }
- - {title: "NDoCH", image: "ndoch.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://ncopenpass.github.io" }
- - {title: "Civic Camp", image: "civictech-2.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.io/civiccamp" }
- - {title: "DataPalooza", image: "techtank.jpg", text: "An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.io/datapalooza" }
+ - {title: "Datajam", date: "March 3-4", image: "datajam.jpg", text: "Hear about the latest in Open Data and Smart Cities, learn how to use data like a journalist or help area agencies dealing with affordable housing", link: "https://ncopenpass.github.io/datajam" }
+ - {title: "Civic Action Day", date: "June 8", image: "civicactionday.jpg", text: "A time for public innovation – to brainstorm creative solutions to community problems", link: "https://ncopenpass.github.io/civicactionday" }
+ - {title: "NDoCH", date: "August 11", image: "ndoch.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://ncopenpass.github.io" }
+ - {title: "Civic Camp", date: "September 21-22", image: "civictech-2.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.io/civiccamp" }
+ - {title: "DataPalooza", date: "November 8", image: "techtank.jpg", text: "An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.io/datapalooza" }
  - {title: "Regional Events", image: "ndoch-2.jpg", text: "Events organized by other groups that your Open Pass gives you access", link: "https://ncopenpass.github.io" }
   
 
