@@ -73,7 +73,7 @@ aboutBlock:
  - {title: "NDoCH", date: "August 11", image: "ndoch.jpg", text: "A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better", link: "https://ncopenpass.github.io" }
  - {title: "Civic Camp", date: "September 21-22", image: "civictech-2.jpg", text: "An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology", link: "https://ncopenpass.github.io/civiccamp" }
  - {title: "DataPalooza", date: "November 8", image: "techtank.jpg", text: "An open data competition to catalyze positive community and economic impact with coaching and cash prizes", link: "https://ncopenpass.github.io/datapalooza" }
- - {title: "Regional Events", image: "ndoch-2.jpg", text: "Events organized by other groups that your Open Pass gives you access", link: "https://ncopenpass.github.io" }
+ - {title: "Regional Events", date: "Various", image: "ndoch-2.jpg", text: "Events organized by other groups that your Open Pass gives you access", link: "https://ncopenpass.github.io" }
   
 
 # Statistic Block
