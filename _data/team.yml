@@ -3,37 +3,35 @@
   name: "Chris"
   surname: "Mathews"
   title: "Co-Chair"
-  thumbnailUrl: 
+  thumbnailUrl: "ncop_cmathews.jpg"
   team: true
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "site", link: ""}
--
+    - {name: "twitter", link: "@christhedba"}
+    - {name: "github", link: "christhedba"}
+   
   id: 1
   name: "Jason"
   surname: "Hibbets"
   title: "Co-Chair"
-  thumbnailUrl: 
+  thumbnailUrl: "ncop_jhibbets.jpg"
   team: true
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "github", link: ""}
-- 
+    - {name: "twitter", link: "@jhibbets"}
+    - {name: "github", link: "jhibbets"}
+   
   id: 2
   name: "Zach"
   surname: "Ambrose"
   title: "Co-Chair"
-  thumbnailUrl: 
+  thumbnailUrl: "ncop_zambrose.jpg"
   team: true
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "site", link: ""}
+     - {name: "twitter", link: "@zambrose"}
+    - {name: "github", link: "zambrose"}
+   
