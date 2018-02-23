@@ -3,35 +3,35 @@
   name: "Chris"
   surname: "Mathews"
   title: "Co-Chair"
-  thumbnailUrl: "ncop_cmathews.jpg"
+  thumbnailUrl: ncop_cmathews.jpg
   team: true
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-    - {name: "twitter", link: "@christhedba"}
-    - {name: "github", link: "christhedba"}
+    - {name: "twitter", link: "https://twitter.com/ChrisTheDBA"}
+    - {name: "github", link: "https://github.com/ChrisTheDBA"}
    
   id: 1
   name: "Jason"
   surname: "Hibbets"
   title: "Co-Chair"
-  thumbnailUrl: "ncop_jhibbets.jpg"
+  thumbnailUrl: ncop_jhibbets.jpg
   team: true
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-    - {name: "twitter", link: "@jhibbets"}
-    - {name: "github", link: "jhibbets"}
+    - {name: "twitter", link: "https://twitter.com/jhibbets"}
+    - {name: "github", link: "https://github.com/jhibbets"}
    
   id: 2
   name: "Zach"
   surname: "Ambrose"
   title: "Co-Chair"
-  thumbnailUrl: "ncop_zambrose.jpg"
+  thumbnailUrl: ncop_zambrose.jpg
   team: true
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-     - {name: "twitter", link: "@zambrose"}
-    - {name: "github", link: "zambrose"}
+     - {name: "twitter", link: "https://twitter.com/zambrose"}
+     - {name: "github", link: "https://github.com/zambrose"}
    
