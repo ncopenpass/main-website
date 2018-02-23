@@ -10,7 +10,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/ChrisTheDBA"}
     - {name: "github", link: "https://github.com/ChrisTheDBA"}
-   
+-   
   id: 1
   name: "Jason"
   surname: "Hibbets"
@@ -22,7 +22,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/jhibbets"}
     - {name: "github", link: "https://github.com/jhibbets"}
-   
+-  
   id: 2
   name: "Zach"
   surname: "Ambrose"
@@ -32,6 +32,6 @@
   ribbon: 
     - {abbr: "NCOPENPASS", title: "NC Open Pass"}
   social: 
-     - {name: "twitter", link: "https://twitter.com/zambrose"}
-     - {name: "github", link: "https://github.com/zambrose"}
+     - {name: "twitter", link: "https://twitter.com/jzambrose"}
+     - {name: "github", link: "https://github.com/zachambrose"}
    
