@@ -16,8 +16,8 @@ description: "Your passport to Open Data and Civic Tech in North Carolina"
 baseurl: "/"
 url: "https://ncopenpass.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: 
-googleAnalyticsSiteUrl: 
+googleAnalyticsTrackingId: "UA-114643107-1"
+googleAnalyticsSiteUrl: "ncopenpass.github.io"
 siteVerification: 
 
 # Organizer Info
