@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/_site/']
 
 # Site Settingsgithub.io
 title: "NC Open Pass"
-email: "info@ncopenpass."
+email: "info@ncopenpass.com"
 description: "Your passport to Open Data and Civic Tech in North Carolina"
 baseurl: "/"
 url: "https://ncopenpass.github.io"
@@ -144,7 +144,7 @@ ticketsOffers:
   priceCurrency: "Dollars"
   ticketsNumber: "00"
   ribbon: ""
-  buyButtonLink: ""
+  buyButtonLink: "https://www.eventbrite.com/e/nc-open-pass-2018-tickets-42176718701"
   buyButtonText: "Buy Now"
   ticketContentList: ["Save Money", "Good All Year", "One and Done"]
   validFrom: "2018-01-28T09:00"
