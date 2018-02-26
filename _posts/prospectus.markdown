@@ -1,3 +1,12 @@
+
+---
+layout: post
+title:  "NC Open Pass Prospectus"
+date:   2018-02-26 09:00:00
+isStaticPost: false
+---
+
+
 ## 2018 NC Open Pass Partner Prospectus
 
 Greetings!
