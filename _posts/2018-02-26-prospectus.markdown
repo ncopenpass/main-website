@@ -72,7 +72,7 @@ Press Coverage
 
 NC Open Pass Partnership levels
 
-| **NC Open Pass** Partner for all events |**Diamond  $10,000** | **Platinum  $5,000** |
+| **NC Open Pass** Partner for all events |**Diamond**  **$10,000** | **Platinum**  **$5,000** |
 | --- | --- | --- |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events | ✔ |   |
@@ -89,7 +89,7 @@ NC Open Pass Partnership levels
 
 Civic Camp Partnership levels
 
-| **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** $1000 |**Bronze** **$500** | **Supporter** $250 |
+| **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
 | --- | --- | --- | --- | --- |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
