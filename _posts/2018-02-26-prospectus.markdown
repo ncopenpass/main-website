@@ -73,10 +73,10 @@ Press Coverage
 
 | **NC Open Pass** Partner for all events |**Diamond** **$10,000** | **Platinum** **$5,000** |
 | --- | --- | --- |
-| Custom slide for slideshow at all events | ✔ |   |
-| Logo in thank you email to participants for all events | ✔ |   |
+| Custom slide for slideshow at all events | '✔' |   |
+| Logo in thank you email to participants for all events |'✔' |   |
 | NC DataPalooza judging panel member | ✔ |   |
-| Company name in press releases for all events | ✔ | ✔ |
+| Company name in press releases for all events | '✔' | '✔' |
 | Opening remarks at Civic Camp and DataPalooza | ✔ | ✔ |
 | Logo on website and event materials for all events | ✔ | ✔ |
 | Display table for materials at all events | ✔ | ✔ |
