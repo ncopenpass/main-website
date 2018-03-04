@@ -84,7 +84,6 @@ Press Coverage
 | Banner placed in registration area | ✔ | ✔ |
 | Announced and thanked at all events | ✔ | ✔ |
 | 20 NC Open Pass tickets (unused passes can be converted to scholarships) | ✔ |   |
-|
 
 Civic Camp Partnership levels
 
@@ -103,10 +102,6 @@ Civic Camp Partnership levels
 | 6 Civic Camp tickets |   | ✔ |   |   |
 | 4 Civic Camp tickets |   |   | ✔ |   |
 | 2 Civic Camp tickets |   |   |   | ✔ |
-
-In-kind Partnerships
-
-Please inquire about in-kind Partnerships opportunities  for venues, advertising, rental equipment, food and beverage, etc.
 
 DataPalooza Partnership levels
 
