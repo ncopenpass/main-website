@@ -68,11 +68,10 @@ Press Coverage
 - [Tech event CityCamp NC begins Thursday in Raleigh](http://www.ncbiznews.com/tech-event-citycamp-nc-begins-thursday-in-raleigh/)
 - [7 Years of Civic Tech in the Triangle](https://www.exitevent.com/2017/09/7-years-of-civic-tech-in-the-triangle/)
 
-## Event Partnership Levels
+### Event Partnership Levels
 
-NC Open Pass Partnership levels
 
-| **NC Open Pass** Partner for all events |**Diamond**  **$10,000** | **Platinum**  **$5,000** |
+| **NC Open Pass** Partner for all events |**Diamond** **$10,000** | **Platinum** **$5,000** |
 | --- | --- | --- |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events | ✔ |   |
