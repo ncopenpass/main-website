@@ -71,8 +71,7 @@ Press Coverage
 ### Event Partnership Levels
 
 
-| **NC Open Pass** Partner for all events |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
-
+| **NC Open Pass** Partner for all events |**Gold** **$2500** | **Silver** **$1000** |
 | --- | :---: | :---: |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events |✔ |   |
@@ -111,8 +110,7 @@ Please inquire about in-kind Partnerships opportunities  for venues, advertising
 
 DataPalooza Partnership levels
 
-| **Datapalooza** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
-
+| **Datapalooza** November 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
 | --- | :---: | :---: | :---: | :---: |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
