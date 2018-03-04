@@ -71,7 +71,7 @@ Press Coverage
 ### Event Partnership Levels
 
 
-| **NC Open Pass** Partner for all events |**Diamond** **$10,000** | **Platinum** **$5,000** |
+| **NC Open Pass** Partner for all events | **Diamond** **$10,000** | **Platinum** **$5,000** |
 | --- | :---: | :---: |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events |✔ |   |
@@ -89,7 +89,7 @@ Press Coverage
 Civic Camp Partnership levels
 
 | **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
 | Announced and thanked at event | ✔ | ✔ | ✔ | ✔ |
@@ -111,7 +111,7 @@ Please inquire about in-kind Partnerships opportunities  for venues, advertising
 DataPalooza Partnership levels
 
 | **DataPalooza**  September 2018 - November 2018 |**Gold $2500** | **Silver $1000**|**Bronze $500** | **Supporter $250** |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
 | Announced and thanked at event | ✔ | ✔ | ✔ | ✔ |
