@@ -20,33 +20,27 @@ Partnerships are the way we are able to continue to make progress and gather thi
 
 We look forward to working with you to explore what type of participation will best meet your goals and we thank you for your support.
 
-_Chris Mathews_
-
-Open Raleigh Brigade Captain, NC Open Pass Co-chair
-
+_Chris Mathews_  
+Open Raleigh Brigade Captain, NC Open Pass Co-chair  
 [christhedba@gmail.com](mailto:christhedba@gmail.com)
 
-_Jason Hibbets_
-
-Open Raleigh Brigade Captain, NC Open Pass Co-chair
-
+_Jason Hibbets_  
+Open Raleigh Brigade Captain, NC Open Pass Co-chair  
 [jhibbets@gmail.com](mailto:jhibbets@gmail.com)
 
-Zach Ambrose
-
-Open Raleigh Brigade Captain, NC Open Pass co-chair
-
+Zach Ambrose  
+Open Raleigh Brigade Captain, NC Open Pass co-chair  
 [zambrose@ambrosestrategy.com](mailto:zambrose@ambrosestrategy.com)
 
 About NC Open Pass
 
 Open Raleigh Brigade launched a new initiative in 2016 called   [NC Open Pass](http://ncopenpass.com/). It&#39;s a partnership between North Carolina brigades and the first state-wide open data competition, NC DataPalooza.  NC Open Pass brings together the following events:
 
-- ➔➔ **NC Open Pass DataJam** (March 3-4, International Open Data Day) - Uniting communities through open data is everyone&#39;s business. It goes to economic opportunity, government transparency, and quality of life. This year will be holding a data jam around affordable housing where data analysts, policy people, and non-profits will dig into available data to better understand the triangle&#39;s affordable housing situation.
-- ➔➔ **NC Open Pass Community Action Day** (June 9) is a time for public innovation – to brainstorm creative solutions to community problems.
-- ➔➔ **NC Open Pass National Day of Civic Hacking** (August 11) - A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better. This years event will have a virtual component with all NC Brigades who are part of the Open NC Collaborative.
-- ➔➔ **NC Open Pass Civic Camp** (September 21-22, formerly CityCamp NC) - An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology.
-- ➔➔ **NC Open Pass DataPalooza** (November 8, formerly NC DataPalooza) - An open data competition to catalyze positive community and economic impact with coaching and cash prizes.
+- **NC Open Pass DataJam** (March 3-4, International Open Data Day) - Uniting communities through open data is everyone&#39;s business. It goes to economic opportunity, government transparency, and quality of life. This year will be holding a data jam around affordable housing where data analysts, policy people, and non-profits will dig into available data to better understand the triangle&#39;s affordable housing situation.
+- **NC Open Pass Community Action Day** (June 9) is a time for public innovation – to brainstorm creative solutions to community problems.
+- **NC Open Pass National Day of Civic Hacking** (August 11) - A national, coordinated effort bringing together urbanists, civic hackers, government staff, developers, designers, and community organizers to make their community better. This years event will have a virtual component with all NC Brigades who are part of the Open NC Collaborative.
+- **NC Open Pass Civic Camp** (September 21-22, formerly CityCamp NC) - An annual event bringing citizens, government, academia, and businesses together to openly innovate and improve our quality of life through technology.
+- **NC Open Pass DataPalooza** (November 8, formerly NC DataPalooza) - An open data competition to catalyze positive community and economic impact with coaching and cash prizes.
 
 _We will also be offering registrations to regional events outside of the Triangle planned by brigades in Asheville, Charlotte, and Greensboro as they are announced._
 
@@ -78,7 +72,7 @@ Press Coverage
 
 NC Open Pass Partnership levels
 
-| **NC Open Pass**** Partner for all events **|** Diamond ****$10,000** | **Platinum**** $5,000** |
+| **NC Open Pass** Partner for all events |**Diamond** **$10,000** | **Platinum** $5,000 |
 | --- | --- | --- |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events | ✔ |   |
@@ -95,7 +89,7 @@ NC Open Pass Partnership levels
 
 Civic Camp Partnership levels
 
-| **Civic Camp**** September 2018 **|** Gold ****$2500** | **Silver**** $1000 **|** Bronze ****$500** | **Supporter**** $250** |
+| **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** $1000 |**Bronze** **$500** | **Supporter** $250 |
 | --- | --- | --- | --- | --- |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
@@ -117,7 +111,7 @@ Please inquire about in-kind Partnerships opportunities  for venues, advertising
 
 DataPalooza Partnership levels
 
-| **DataPalooza**** September 2018 - November 2018 **|** Gold ****$2500** | **Silver**** $1000 **|** Bronze ****$500** | **Supporter**** $250** |
+| **DataPalooza**  September 2018 - November 2018 |**Gold $2500** | **Silver $1000**|**Bronze $500** | **Supporter $250** |
 | --- | --- | --- | --- | --- |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
