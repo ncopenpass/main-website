@@ -72,7 +72,7 @@ Press Coverage
 
 NC Open Pass Partnership levels
 
-| **NC Open Pass** Partner for all events |**Diamond** **$10,000** | **Platinum** $5,000 |
+| **NC Open Pass** Partner for all events |**Diamond  $10,000** | **Platinum  $5,000** |
 | --- | --- | --- |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events | ✔ |   |
@@ -124,7 +124,7 @@ DataPalooza Partnership levels
 | Display signage at the event | ✔ | ✔ |   |   |
 | Place gift or literature at registration table |   | ✔ | ✔ |   |
 | Opportunity to sponsor a meal  with logo signage at serving area |   |   | ✔ |   |
-| 8 DataPalooza VIP  tickets (November 2018) | ✔ |   |   |   |
+| 8 DataPalooza VIP tickets (November 2018) | ✔ |   |   |   |
 | 6 DataPalooza VIP tickets (November 2018) |   | ✔ |   |   |
 | 4 DataPalooza VIP tickets (November 2018) |   |   | ✔ |   |
 | 2 DataPalooza VIP tickets (November 2018) |   |   |   | ✔ |
