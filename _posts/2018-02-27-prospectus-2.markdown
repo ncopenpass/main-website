@@ -74,21 +74,19 @@ NC Open Pass Partnership Levels
 
 | **NC Open Pass** September 2018 |**Diamond** **$10000** | **Platinum** **$5000** |
 | :--- | :---: | :---: |
-| Logo on event website and materials | ✔ | ✔ |
-| Logo on event slide showing partners | ✔ | ✔ |
-| Announced and thanked at event | ✔ | ✔ |
-| Inclusion in social media | ✔ | ✔ |
-| Logo on event banner | ✔ | ✔ |
-| Company name in press releases for event | ✔ | ✔ |
-| Display table for materials at event | ✔ |   |
+| Custom slide for slideshow at all events | ✔ |   |
+| Logo in thank you email to participants for all events | ✔ |   |
+| NC DataPalooza judging panel member | ✔ |   |
+| Company name in press releases for all events | ✔ | ✔ |
+| Opening remarks at Civic Camp and DataPalooza | ✔ | ✔ |
+| Logo on website and event materials for all events | ✔ | ✔ |
+| Display table for materials at all events | ✔ | ✔ |
 | Option to host a 50-minute breakout session at Civic Camp (must pitch session like all attendees) | ✔ |   |
-| Place gift or literature at registration table |   | ✔ |
-| 8 Civic Camp tickets | ✔ |   |
-| 6 Civic Camp tickets |   | ✔ |
-| 4 Civic Camp tickets |   |   |
-| 2 Civic Camp tickets |   |   |
+| Banner placed in registration area | ✔ | ✔ |
+| Announced and thanked at all events | ✔ | ✔ |
+| 20 NC Open Pass tickets (unused passes can be converted to scholarships) | ✔ | ✔ |  
 
-Civic Camp Partnership levels
+Civic Camp Partnership levels  
 
 | **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
 | --- | :---: | :---: | :---: | :---: |
