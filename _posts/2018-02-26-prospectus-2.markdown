@@ -73,7 +73,7 @@ Press Coverage
 NC Open Pass Partnership Levels
 
 | **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
-| --- | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
 | Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
 | Announced and thanked at event | ✔ | ✔ | ✔ | ✔ |
