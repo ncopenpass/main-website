@@ -72,21 +72,21 @@ Press Coverage
 
 NC Open Pass Partnership Levels
 
-| **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
-| :---: | :---: | :---: | :---: | :---: |
-| Logo on event website and materials | ✔ | ✔ | ✔ | ✔ |
-| Logo on event slide showing partners | ✔ | ✔ | ✔ | ✔ |
-| Announced and thanked at event | ✔ | ✔ | ✔ | ✔ |
-| Inclusion in social media | ✔ | ✔ | ✔ | ✔ |
-| Logo on event banner | ✔ | ✔ | ✔ |   |
-| Company name in press releases for event | ✔ | ✔ |   |   |
-| Display table for materials at event | ✔ |   |   |   |
-| Option to host a 50-minute breakout session at Civic Camp (must pitch session like all attendees) | ✔ |   |   |   |
-| Place gift or literature at registration table |   | ✔ |   |   |
-| 8 Civic Camp tickets | ✔ |   |   |   |
-| 6 Civic Camp tickets |   | ✔ |   |   |
-| 4 Civic Camp tickets |   |   | ✔ |   |
-| 2 Civic Camp tickets |   |   |   | ✔ |
+| **NC Open Pass** September 2018 |**Diamond** **$10000** | **Platinum** **$5000** |
+| :--- | :---: | :---: |
+| Logo on event website and materials | ✔ | ✔ |
+| Logo on event slide showing partners | ✔ | ✔ |
+| Announced and thanked at event | ✔ | ✔ |
+| Inclusion in social media | ✔ | ✔ |
+| Logo on event banner | ✔ | ✔ |
+| Company name in press releases for event | ✔ | ✔ |
+| Display table for materials at event | ✔ |   |
+| Option to host a 50-minute breakout session at Civic Camp (must pitch session like all attendees) | ✔ |   |
+| Place gift or literature at registration table |   | ✔ |
+| 8 Civic Camp tickets | ✔ |   |
+| 6 Civic Camp tickets |   | ✔ |
+| 4 Civic Camp tickets |   |   |
+| 2 Civic Camp tickets |   |   |
 
 Civic Camp Partnership levels
 
