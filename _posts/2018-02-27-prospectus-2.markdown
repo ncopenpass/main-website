@@ -85,7 +85,7 @@ NC Open Pass Partnership Levels
 | Banner placed in registration area | ✔ | ✔ |
 | Announced and thanked at all events | ✔ | ✔ |
 | 20 NC Open Pass tickets (unused passes can be converted to scholarships) | ✔ | ✔ |  
-
+  
 Civic Camp Partnership levels  
 
 | **Civic Camp** September 2018 |**Gold** **$2500** | **Silver** **$1000** |**Bronze** **$500** | **Supporter** **$250** |
