@@ -72,19 +72,19 @@ Press Coverage
 
 NC Open Pass Partnership Levels
 
-| **NC Open Pass** Partner for all events |**Diamond** <br/> **$10000** | **Platinum** <br/> **$5000** |
+| **NC Open Pass** Partner for all events |**Diamond** <br/> **$10000** |   | **Platinum** <br/> **$5000** |
 | :--- | :---: | :---: |
-| Custom slide for slideshow at all events | ✔ |   |
-| Logo in thank you email to participants for all events | ✔ |   |
-| NC DataPalooza judging panel member | ✔ |   |
-| Company name in press releases for all events | ✔ | ✔ |
-| Opening remarks at Civic Camp and DataPalooza | ✔ | ✔ |
-| Logo on website and event materials for all events | ✔ | ✔ |
-| Display table for materials at all events | ✔ | ✔ |
-| Option to host a 50-minute breakout session at Civic Camp (must pitch session like all attendees) | ✔ |   |
-| Banner placed in registration area | ✔ | ✔ |
-| Announced and thanked at all events | ✔ | ✔ |
-| 20 NC Open Pass tickets (unused passes can be converted to scholarships) | ✔ | ✔ |  
+| Custom slide for slideshow at all events | ✔ |   |   |
+| Logo in thank you email to participants for all events | ✔ |   |   |
+| NC DataPalooza judging panel member | ✔ |   |   |
+| Company name in press releases for all events | ✔ |   | ✔ |
+| Opening remarks at Civic Camp and DataPalooza | ✔ |   | ✔ |
+| Logo on website and event materials for all events | ✔ |   | ✔ |
+| Display table for materials at all events | ✔ |   | ✔ |
+| Option to host a 50-minute breakout session at Civic Camp (must pitch session like all attendees) | ✔ |   |   |
+| Banner placed in registration area | ✔ |   | ✔ |
+| Announced and thanked at all events | ✔ |   | ✔ |
+| 20 NC Open Pass tickets (unused passes can be converted to scholarships) | ✔ |   | ✔ |  
   
 Civic Camp Partnership levels  
 
