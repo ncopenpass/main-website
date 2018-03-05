@@ -72,7 +72,7 @@ Press Coverage
 
 NC Open Pass Partnership Levels
 
-| **NC Open Pass** September 2018 |**Diamond** **$10000** | **Platinum** **$5000** |
+| **NC Open Pass** Partner for all events |**Diamond** <br/> **$10000** | **Platinum** <br/> **$5000** |
 | :--- | :---: | :---: |
 | Custom slide for slideshow at all events | ✔ |   |
 | Logo in thank you email to participants for all events | ✔ |   |
