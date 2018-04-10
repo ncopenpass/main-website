@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "Passport.jpg"
 heroTitle: "NC Open Pass <typeout> 2018"
 eventDate: ""
-typeoutTextValues: '"", "Datajam", "Civic Action Day", "Civic Camp", "Datapalooza"'
+typeoutTextValues: '"", "Datajam", "Community Action Day", "Civic Camp", "Datapalooza"'
 typeoutFallback: "Season"
 heroTagline: "Your Passport to Open Data and Civic Tech"
 heroButtons:
